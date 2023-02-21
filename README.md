@@ -98,13 +98,4 @@
             src="https://github-readme-stats.vercel.app/api?username=vaibhzz101&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
    
-   <p>
-    <a href="https://github.com/vaibhzz101"><span>
-        <img align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhzz101&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
-          alt="ovi" width="45%" />
-          <img align="right"
-          src="https://github-readme-stats.vercel.app/api?username=vaibhzz101&show_icons=true&locale=en&theme=github_dark&hide_border=true"
-          alt="ovi" width="45%"  />
-      </span></a>
-  </p>
+
