@@ -84,7 +84,7 @@
 </p>
 
 <br />
-<br>
+
 <p align="center"><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhzz101&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
         alt="vaibhav /></p>
@@ -101,4 +101,4 @@
             src="https://github-readme-stats.vercel.app/api?username=vaibhzz101&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
 </p>
-</br>
+
