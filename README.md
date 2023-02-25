@@ -83,7 +83,6 @@
         alt="styled-components" />
 </p>
 
-<!-- deivder -->
 
 <br />
 <p align="center"><img align="center"
@@ -103,8 +102,8 @@
     </a>
 </p>
 <br />
- -->
-<!--  <!-- deivder -->
+
+  <!-- deivder -->
 <br />
   
   <p align="center">
@@ -115,4 +114,4 @@
   </p>
   
   
-<br /> -->
+<br /> 
