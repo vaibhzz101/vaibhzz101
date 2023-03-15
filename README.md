@@ -39,7 +39,7 @@
 
 - 📫 How to reach me **vaibhzzsmiley@gmail.com**
 
-<!-- - 🌏 Visit to me **[portfolio](https://vaibhzz101.netlify.app/)** -->
+- 🌏 Visit to me [portfolio](https://vaibhzz101.github.io/)
 
 - 📃 Look at my [Resume](https://drive.google.com/file/d/1dMkNsTPpnamBCcn4PV4HKQ49KRtyXLpa/view?usp=share_link) 
 
