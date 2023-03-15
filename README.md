@@ -41,7 +41,7 @@
 
 - 🌏 Visit to me [portfolio](https://vaibhzz101.github.io/)
 
-- 📃 Look at my [Resume](https://drive.google.com/drive/folders/1pbUnZl1QdxAZOf-TQ_04fNhBFh1EY5f1?usp=share_link) 
+- 📃 Look at my [Resume](https://drive.google.com/file/d/16tQUUbquZpysvg0H4ZR6gTEdReZQuqjO/view?usp=share_link) 
 
 - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/vaibhzz101)
 
