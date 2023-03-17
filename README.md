@@ -34,7 +34,6 @@
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
 - 🌱 I’m currently learning **Nodejs**
-- [vaibhzz101.github.io](http://vaibhzz101.github.io)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
 
