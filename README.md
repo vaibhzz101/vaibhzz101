@@ -40,7 +40,8 @@
 
 - 📫 How to reach me **vaibhzzsmiley@gmail.com**
 
-- 🌏 Visit to me [portfolio](https://vaibhzz101.github.io)
+- 🌏 Visit to me <a href="https://vaibhzz101.github.io">Portfolio</a>
+<!-- - [portfolio](https://vaibhzz101.github.io) -->
 
 - 📃 Look at my [Resume](https://drive.google.com/file/d/16tQUUbquZpysvg0H4ZR6gTEdReZQuqjO/view?usp=share_link) 
 
