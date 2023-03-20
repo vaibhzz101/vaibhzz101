@@ -27,10 +27,7 @@
             alt="Vaibhav Shevne height="30" width="40" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhzz101&label=Profile%20views&color=0e75b6&style=flat"
-        alt="vaibhav" />
-</p>
-</br>
-<!-- <a href="http://vaibhzz101.github.io">Portfolio</a> -->
+        alt="vai
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
@@ -40,8 +37,8 @@
 
 - 📫 How to reach me **vaibhzzsmiley@gmail.com**
 
-- 🌏 Visit to me <a href="https://vaibhzz101.github.io">Portfolio</a>
-<!-- - [portfolio](https://vaibhzz101.github.io) -->
+- 🌏 Visit to me <a href="https://vaibhzz101.github.io/">Portfolio</a>
+
 
 - 📃 Look at my [Resume](https://drive.google.com/file/d/16tQUUbquZpysvg0H4ZR6gTEdReZQuqjO/view?usp=share_link) 
 
