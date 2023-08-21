@@ -4,7 +4,7 @@
    
  
 <h1 align="center">Hello 👋, I'm VAIBHAV SHEVNE</h1>
-<h3 align="center">A Full Stack Developer is in making.</h3>
+<h3 align="center">A Full Stack Web Developer...</h3>
 <hr>
 <p align="center">
     <a href="https://www.linkedin.com/in/vaibhav-shevne-1b1935170/" target="_blank"><img align="center"
@@ -31,13 +31,15 @@
     </p>
     </br> 
     
-- 🔭 I’m currently pursuing **Full Stack Web Development**
+- 🔭 I’m a **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **React.JS**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
+- 💬 Ask me about **Node.JS, MongoDB, Express.JS, SQL, AWS, HTML, CSS, JavaScript, React & DSA**
 
-- 📫 How to reach me **vaibhzzsmiley@gmail.com**
+- 📫 How to reach me
+ **vashevne@gmail.com**
+ **vaibhzzsmiley@gmail.com**
 
 - 🌏 Visit to my <a href="https://vaibhzz101.github.io/">Portfolio</a>
 
