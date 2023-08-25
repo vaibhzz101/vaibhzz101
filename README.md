@@ -5,6 +5,7 @@
  
 <h1 align="center">Hello 👋, I'm VAIBHAV SHEVNE</h1>
 <h3 align="center">A Full Stack Web Developer...</h3>
+<h4 align='center' >From Pune, Maharashtra </h4>
 <hr>
 <p align="center">
     <a href="https://www.linkedin.com/in/vaibhav-shevne-1b1935170/" target="_blank"><img align="center"
