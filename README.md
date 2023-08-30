@@ -36,7 +36,7 @@
 
 - 🌱 I’m currently learning **React.JS**
 
-- 💬 Ask me about **Node.JS, MongoDB, Express.JS, SQL, AWS, HTML, CSS, JavaScript, React & DSA**
+- 💬 Ask me about **Node.JS, MongoDB, SQL, Express.JS, AWS, HTML, CSS, JavaScript, React & DSA**
 
 - 📫 How to reach me
  **vashevne@gmail.com**
