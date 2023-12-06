@@ -32,7 +32,7 @@
     </p>
     </br> 
     
-- 🔭 I’m a **Full Stack Web Development**
+- 🔭 I’m a **Full Stack Web Developer**
 
 - 🌱 I’m currently learning **React.JS**
 
