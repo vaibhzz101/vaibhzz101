@@ -52,8 +52,9 @@
 
 <br> 
 <h3 align='center'><i>Trophies:</i></h3>
-<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhzz101" alt="vaibhzz101" /></a> </p> 
 
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhzz101&theme=onedark" </a> </p>
+alt="vaibhzz101" />
 <h2 align="center"><i>Tech Stack</i></h2>
 
 <p align="center">
