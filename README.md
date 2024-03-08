@@ -40,7 +40,6 @@
 
 - 📫 How to reach me
  **vashevne@gmail.com**
- **vaibhzzsmiley@gmail.com**
 
 - 🌏 Visit to my <a href="https://vaibhzz101.github.io/">Portfolio</a>
 
@@ -53,6 +52,8 @@
 
 
 <br> 
+<h3>Tropies:</h3>
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam202003" alt="sam202003" /></a> </p> 
 
 <h2 align="center"><i>Tech Stack</i></h2>
 
