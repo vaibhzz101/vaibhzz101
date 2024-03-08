@@ -52,8 +52,8 @@
 
 
 <br> 
-<h3>Tropies:</h3>
-<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam202003" alt="sam202003" /></a> </p> 
+<h3 align='center'><i>Trophies:</i></h3>
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhzz101" alt="vaibhzz101" /></a> </p> 
 
 <h2 align="center"><i>Tech Stack</i></h2>
 
