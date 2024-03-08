@@ -1,7 +1,5 @@
 
-<div align="center">
-<img  alt="GIF" src="https://user-images.githubusercontent.com/114337213/218172084-62191cef-94b6-4087-a4c5-2f07b272ae61.gif" width="400" height="318" />
-   </div>   
+ 
  
 <h1 align="center">Hello 👋, I'm VAIBHAV SHEVNE</h1>
 <h3 align="center">A Full Stack Web Developer...</h3>
@@ -31,12 +29,13 @@
                       alt="vaibhav" />
     </p>
     </br> 
-    
+    <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/114337213/218172084-62191cef-94b6-4087-a4c5-2f07b272ae61.gif" width="400" height="318" />
+   
 - 🔭 I’m a **Full Stack Web Developer**
 
 - 🌱 I’m currently learning **React.JS**
 
-- 💬 Ask me about **Node.JS, MongoDB, SQL, Express.JS, AWS, HTML, CSS, JavaScript, React & DSA**
+- 💬 Ask me about **Node.JS, ReactJs, NextJS, SQL, MongoDB, TypeScript, Express.JS, AWS, HTML, CSS, JavaScript, & DSA**
 
 - 📫 How to reach me
  **vashevne@gmail.com**
