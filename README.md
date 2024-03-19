@@ -33,7 +33,7 @@
    
 - 🔭 I’m a **Full Stack Web Developer**
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **Next.JS**
 
 - 💬 Ask me about **Node.JS, ReactJs, NextJS, SQL, MongoDB, TypeScript, Express.JS, AWS, HTML, CSS, JavaScript, & DSA**
 
